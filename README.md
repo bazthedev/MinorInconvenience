@@ -1,1 +1,4 @@
 # MinorInconvenience
+## A Trojan made in Python
+# THIS IS A VIRUS, SO ONLY DOWNLOAD THIS IF YOU KNOW WHAT YOU ARE DOING AND RUNNING INSIDE A VIRTUAL MACHINE.
+## Payloads:
