@@ -16,3 +16,7 @@
 - Kill windows explorer
 - Download and extract a zip bomb (fill up hard disk)
 - Shutdown the computer
+- Change desktop background
+- Open a super bad website
+## Additional features:
+- Persistence
