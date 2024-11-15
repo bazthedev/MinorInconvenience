@@ -21,5 +21,4 @@
 ## Additional features:
 - Persistence
 
-### this is not finished, its just an introduction
-## forgot to upload code will do it soon
+### this is not finished
